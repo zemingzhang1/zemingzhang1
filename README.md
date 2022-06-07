@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- 
 [![Zay](https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.jpg)](https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.pdf) -->
 
-
+Click on the icon below for resume and cover letter!
 <div class="table-wrapper" markdown="block">
   <pre> <img src="https://github.com/zemingzhang1/zemingzhang1/blob/main/Cover%20Letter.pdf" width = 300/> <img src="https://github.com/zemingzhang1/zemingzhang1/blob/main/Cover%20Letter.pdf" width = 300/> <img
   </pre>

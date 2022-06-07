@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 <div class="table-wrapper" markdown="block">
-  <pre> <img src="https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.jpg" width = 300/> <img src="https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.jpg" width = 300/> <img 
+  <pre> <img src="https://github.com/zemingzhang1/zemingzhang1/blob/main/Cover%20Letter.pdf" width = 300/> <img src="" width = 300/> <img 
   </pre>
 </div>

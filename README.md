@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- 
+[![Zay](https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.jpg)](https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.pdf) -->
 
+
+<div class="table-wrapper" markdown="block">
+  <pre> <img src="https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.jpg" width = 300/> <img src="https://github.com/zemingzhang1/CV/blob/main/ZeMing-Zhang.jpg" width = 300/> <img 
+  </pre>
+</div>
